@@ -5,6 +5,9 @@ This is a hospital command line interface
 1. Ensure you have python installed
 2. Ensure you are in the correct directory in command line
 3. Run python app.py in command line
+4. Login using admin account (name: metro, password, adminpass)
+5. Use features and logout
+6. You can now login with a new account if you have created a new account for a new user
 
 ### Users
 1. Patients
